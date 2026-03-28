@@ -43,7 +43,7 @@ const Navbar = ({ user, onLogout }) => {
       <div className="navbar-right">
         {/* Notifications */}
         <div className="notification">
-          
+          🔔
           <span className="badge">{notifications.length}</span>
         </div>
 
